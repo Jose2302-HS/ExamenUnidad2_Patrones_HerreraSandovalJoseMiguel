@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\PatronesDiseñoU2\TestExamenU2v5\bin\Debug\TestExamenU2v5.exe.config
+C:\Users\DELL\Desktop\PatronesDiseñoU2\TestExamenU2v5\bin\Debug\TestExamenU2v5.exe
+C:\Users\DELL\Desktop\PatronesDiseñoU2\TestExamenU2v5\bin\Debug\TestExamenU2v5.pdb
+C:\Users\DELL\Desktop\PatronesDiseñoU2\TestExamenU2v5\obj\Debug\TestExamenU2v5.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PatronesDiseñoU2\TestExamenU2v5\obj\Debug\TestExamenU2v5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PatronesDiseñoU2\TestExamenU2v5\obj\Debug\TestExamenU2v5.exe
+C:\Users\DELL\Desktop\PatronesDiseñoU2\TestExamenU2v5\obj\Debug\TestExamenU2v5.pdb
+C:\Users\DELL\Desktop\PatronesDiseñoU2\TestExamenU2v5\obj\Debug\TestExamenU2v5.exe.config
