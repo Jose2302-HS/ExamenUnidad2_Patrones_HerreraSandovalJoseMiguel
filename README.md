@@ -12,7 +12,7 @@ El presente proyecto muestra una ejecución por consola, en donde se simula una 
 ## 📷 Capturas del Sistema
 
 ### Mensaje de inicio al ejecutar consola
-![Mensaje Inicio](images/Lluvia.png)
+![Mensaje Inicio](images/Lluvia1.png)
 
 ### Programa corriendo
 ![Programa corriendo](images/Lluvia2.png)
